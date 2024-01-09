@@ -29,3 +29,5 @@ WS.verifyElementsCount(response, 'data', 6)
 
 WS.verifyResponseStatusCodeInRange(response, 100, 200)
 
+WS.comment('')
+
